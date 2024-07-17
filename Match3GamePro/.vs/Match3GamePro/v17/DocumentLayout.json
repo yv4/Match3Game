@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitRes\\Match3Game\\Match3GamePro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2607F80-D0D6-659A-E3AF-AAFAFC0EC95D}|Assembly-CSharp.csproj|d:\\gitres\\match3game\\match3gamepro\\assets\\scripts\\gamegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2607F80-D0D6-659A-E3AF-AAFAFC0EC95D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2607F80-D0D6-659A-E3AF-AAFAFC0EC95D}|Assembly-CSharp.csproj|D:\\GitRes\\Match3Game\\Match3GamePro\\assets\\scripts\\gamepiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2607F80-D0D6-659A-E3AF-AAFAFC0EC95D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamepiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2607F80-D0D6-659A-E3AF-AAFAFC0EC95D}|Assembly-CSharp.csproj|d:\\gitres\\match3game\\match3gamepro\\assets\\scripts\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2607F80-D0D6-659A-E3AF-AAFAFC0EC95D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2607F80-D0D6-659A-E3AF-AAFAFC0EC95D}|Assembly-CSharp.csproj|D:\\GitRes\\Match3Game\\Match3GamePro\\assets\\scripts\\clearcolorpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2607F80-D0D6-659A-E3AF-AAFAFC0EC95D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clearcolorpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2607F80-D0D6-659A-E3AF-AAFAFC0EC95D}|Assembly-CSharp.csproj|D:\\GitRes\\Match3Game\\Match3GamePro\\assets\\scripts\\piecetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2607F80-D0D6-659A-E3AF-AAFAFC0EC95D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\piecetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PieceType.cs",
+              "DocumentMoniker": "D:\\GitRes\\Match3Game\\Match3GamePro\\Assets\\Scripts\\PieceType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PieceType.cs",
+              "ToolTip": "D:\\GitRes\\Match3Game\\Match3GamePro\\Assets\\Scripts\\PieceType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PieceType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:10:49.513Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Level.cs",
+              "DocumentMoniker": "D:\\GitRes\\Match3Game\\Match3GamePro\\Assets\\Scripts\\Level.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level.cs",
+              "ToolTip": "D:\\GitRes\\Match3Game\\Match3GamePro\\Assets\\Scripts\\Level.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA1wB8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T05:54:40.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClearColorPiece.cs",
+              "DocumentMoniker": "D:\\GitRes\\Match3Game\\Match3GamePro\\Assets\\Scripts\\ClearColorPiece.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ClearColorPiece.cs",
+              "ToolTip": "D:\\GitRes\\Match3Game\\Match3GamePro\\Assets\\Scripts\\ClearColorPiece.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ClearColorPiece.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T05:13:41.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GamePiece.cs",
+              "DocumentMoniker": "D:\\GitRes\\Match3Game\\Match3GamePro\\Assets\\Scripts\\GamePiece.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GamePiece.cs",
+              "ToolTip": "D:\\GitRes\\Match3Game\\Match3GamePro\\Assets\\Scripts\\GamePiece.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GamePiece.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAA8wEIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:45:23.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameGrid.cs",
+              "DocumentMoniker": "D:\\GitRes\\Match3Game\\Match3GamePro\\Assets\\Scripts\\GameGrid.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameGrid.cs",
+              "ToolTip": "D:\\GitRes\\Match3Game\\Match3GamePro\\Assets\\Scripts\\GameGrid.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameGrid.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAnwFoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:05:03.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
